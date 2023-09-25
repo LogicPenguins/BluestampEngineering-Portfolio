@@ -1,1 +1,1 @@
-To edit your portfolio, please go over to the gh_pages branch!
+Please take a look at the .md file in this repository for an overview of my projects during the summer program. 
